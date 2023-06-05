@@ -1,2 +1,2 @@
-n,m=map(int,input().split())
-print("%.4f"%((n+m)/2))
+a,b=map(int,input().split())
+print("%.4f"%((a+b)/2))
