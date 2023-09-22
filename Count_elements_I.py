@@ -1,0 +1,5 @@
+n,m=map(int,input().split())
+l1=set(map(int,input().split()))
+l2=set(map(int,input().split()))
+x=l1.intersection(l2)
+print(len(x))
